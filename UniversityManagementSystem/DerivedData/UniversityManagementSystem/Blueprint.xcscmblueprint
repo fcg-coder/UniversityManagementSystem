@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "67D88031BE1EB1A1EA2615C57EF8E94CC03C634B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "67D88031BE1EB1A1EA2615C57EF8E94CC03C634B" : 0,
+    "C788B8CB430BA3A2F0F0234265CAF1F3D91B2D7C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "83939D52-6E6E-4090-8DCF-40C305756B8A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "67D88031BE1EB1A1EA2615C57EF8E94CC03C634B" : "UniversityManagementSystem\/",
+    "C788B8CB430BA3A2F0F0234265CAF1F3D91B2D7C" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UniversityManagementSystem",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UniversityManagementSystem\/UniversityManagementSystem.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fcg-coder\/UniversityManagementSystem.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67D88031BE1EB1A1EA2615C57EF8E94CC03C634B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/StanislavAgeychik\/lshfn.store.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C788B8CB430BA3A2F0F0234265CAF1F3D91B2D7C"
+    }
+  ]
+}

@@ -26,6 +26,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      customLLDBInitFile = "/Users/mak/&#x414;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x44b;/GitHub/UniversityManagementSystem/UniversityManagementSystem"
       shouldUseLaunchSchemeArgsEnv = "YES"
       shouldAutocreateTestPlan = "YES">
    </TestAction>
@@ -36,7 +37,7 @@
       customLLDBInitFile = "/Users/mak/&#x414;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x44b;/GitHub/UniversityManagementSystem/UniversityManagementSystem"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/mak/&#x414;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x44b;/GitHub/UniversityManagementSystem/UniversityManagementSystem"
+      customWorkingDirectory = "/Users/mak/&#x414;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x44b;/GitHub/UniversityManagementSystem/UniversityManagementSystem/UniversityManagementSystem"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"

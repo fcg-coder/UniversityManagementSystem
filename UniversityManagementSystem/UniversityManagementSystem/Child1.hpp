@@ -15,11 +15,11 @@
 
 class STUDENT : public BASE{
 public:
-    STUDENT();//Конструктор
-    STUDENT(int n);//Конструктор чтения из файта
+    STUDENT();//Конструктор пустой
+    STUDENT(std:: string name1,std:: string surname1, std:: string fathername1,int group1,std:: string speciality1,int course1,double averagScore1);
+    STUDENT(int n);//Конструктор 
     
-    void show() override;
-    void save();
+    void showOne() override;
 public:
     std :: string name;
     std :: string surname;

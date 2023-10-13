@@ -13,17 +13,68 @@
 #include <string>
 #include "baseAbstractClass.hpp"
 #include "Child1.hpp"
+#include "keeper.hpp"
 
 using namespace std;
 
 
 int main(){
-    STUDENT S;
-    S.show();
-    S.save();
+
+
+    std :: string s1 = "\n\n\n\n(1)Вывод базы данных\n(2)Добавить\n(3)Удалить\n(4)Востановиться из файла\n(6)Назад\n->";
+    std :: string s2 = "(1)Студент\n(2)Преподаватель\n(3)Администрация\n->";
     
-    STUDENT D(1);
-    D.show();
-    
-    return 0;
+    Keeper K;
+    int choose;
+    cout << s1;
+    cin >> choose;
+    int choose1;
+    while(true){
+        switch (choose) {
+            case 1:
+                
+                
+                K.showAll(1);
+                K.showAll(2);
+                K.showAll(3);
+                
+                
+                cout << s1;
+                cin >> choose;
+                
+                break;
+                
+            case 2:
+             
+                cout << s2 ;
+                cin >> choose1;
+                K.add(choose1);
+                
+                cout << s1;
+                cin >> choose;
+                break;
+            case 3:
+                cout << s2 ;
+                cin >> choose1;
+                K.pullBack(choose1);
+                
+                cout << s1;
+                cin >> choose;
+                break;
+            case 4:
+                cout << s2 ;
+                cin >> choose1;
+                K.loadFromResFile(choose1);
+                
+                cout << s1;
+                cin >> choose;
+                break;
+            case 6:
+                break;
+                break;
+            default:
+                break;
+        }
+    }
 }
+

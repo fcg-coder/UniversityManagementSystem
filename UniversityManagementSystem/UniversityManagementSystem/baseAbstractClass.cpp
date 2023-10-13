@@ -10,6 +10,6 @@ BASE::~BASE(){
 
 }
 
-void BASE::show(){
+void BASE::showOne(){
     
 }

@@ -7,33 +7,65 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "809562FD-6D70-4182-8B96-501616C1E6B4"
-            shouldBeEnabled = "Yes"
+            uuid = "B45D75F3-03D9-4C4E-B2AC-D1BAAD0B94BF"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "UniversityManagementSystem/Child1.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
-            landmarkName = "STUDENT::STUDENT(n)"
-            landmarkType = "7">
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "926831A6-A96E-43FD-BB0D-259C070390F0"
-            shouldBeEnabled = "Yes"
+            uuid = "972B8623-40AA-4988-AB69-E4B1B0FB030B"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "UniversityManagementSystem/Child1.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
-            landmarkName = "STUDENT::save()"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "STUDENT::STUDENT(n)"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "972B8623-40AA-4988-AB69-E4B1B0FB030B - b702ce826071888c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "STUDENT::STUDENT(int)"
+                  moduleName = "UniversityManagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/GitHub/UniversityManagementSystem/UniversityManagementSystem/UniversityManagementSystem/Child1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "329">
+               </Location>
+               <Location
+                  uuid = "972B8623-40AA-4988-AB69-E4B1B0FB030B - b702ce826071888c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "STUDENT::STUDENT(int)"
+                  moduleName = "UniversityManagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/GitHub/UniversityManagementSystem/UniversityManagementSystem/UniversityManagementSystem/Child1.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

@@ -14,7 +14,7 @@
 
 class BASE{
 public:
-    virtual void show() = 0;
+    virtual void showOne() = 0;
     virtual ~BASE();
 };
 

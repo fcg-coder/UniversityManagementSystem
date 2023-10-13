@@ -6,10 +6,10 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>29AE2DDD-BAC9-4F59-B576-C1E7EAF865E0</key>
+		<key>00D96C7A-3233-4F87-8439-1EA2731331D9</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>BF1B14C0-58E2-4672-B139-3AE3A8BBF4A5</string>
+			<string>F34DDE65-EC71-4B85-80D4-EA5FCD33A4E9</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -22,7 +22,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-14-24-+0300.xcresult</string>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-54-19-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -43,18 +43,18 @@
 			<key>signature</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582464.77045906</real>
+			<real>718847659.47209597</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>29AE2DDD-BAC9-4F59-B576-C1E7EAF865E0</string>
+			<string>00D96C7A-3233-4F87-8439-1EA2731331D9</string>
 		</dict>
-		<key>34CFB78D-C547-4100-BA3A-C78170477EC9</key>
+		<key>037A3BDF-72FD-4702-836F-332C86BC3E2D</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>DCF9F8BC-B9CE-4F9E-AB60-7B7D6AB7BCA0</string>
+			<string>64DA38B1-6F56-424B-8C17-DCCEFEF15BED</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -67,7 +67,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-14-23-+0300.xcresult</string>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-09-30-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -88,63 +88,18 @@
 			<key>signature</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582463.53918302</real>
+			<real>718852170.15728903</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>34CFB78D-C547-4100-BA3A-C78170477EC9</string>
+			<string>037A3BDF-72FD-4702-836F-332C86BC3E2D</string>
 		</dict>
-		<key>5B0F8357-C9A1-45D1-BEA3-F94702DD3F11</key>
+		<key>059A67BA-9075-4C3D-915C-F9B66E3D404D</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>19472720-F142-4AD3-96D5-E90C04D6C9F8</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-05-32-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>UniversityManagementSystem project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>UniversityManagementSystem</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run UniversityManagementSystem</string>
-			<key>timeStartedRecording</key>
-			<real>718581932.86159003</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run UniversityManagementSystem</string>
-			<key>uniqueIdentifier</key>
-			<string>5B0F8357-C9A1-45D1-BEA3-F94702DD3F11</string>
-		</dict>
-		<key>658B1ECB-B57B-4084-A6C1-8A5A9C6E1451</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>4AC62EDA-1BCE-4EC9-8156-9909341694D8</string>
+			<string>77627B03-2941-4C4B-88EB-0CEBCD314E10</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -157,7 +112,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-07-02-+0300.xcresult</string>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-51-32-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -178,22 +133,22 @@
 			<key>signature</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582022.17906499</real>
+			<real>718851092.40425301</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>658B1ECB-B57B-4084-A6C1-8A5A9C6E1451</string>
+			<string>059A67BA-9075-4C3D-915C-F9B66E3D404D</string>
 		</dict>
-		<key>7C3A82B1-84CC-4779-9556-0BD8812648C6</key>
+		<key>06E87DCF-2613-4E50-97DE-9CB5E629FC68</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>EAF832A6-3939-4599-A29B-3CC583BEA7A1</string>
+			<string>1A132B67-22E8-4824-81D3-42B983F41B96</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -202,142 +157,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-14-23-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>UniversityManagementSystem project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>UniversityManagementSystem</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run UniversityManagementSystem</string>
-			<key>timeStartedRecording</key>
-			<real>718582463.02607298</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run UniversityManagementSystem</string>
-			<key>uniqueIdentifier</key>
-			<string>7C3A82B1-84CC-4779-9556-0BD8812648C6</string>
-		</dict>
-		<key>96A1FD63-0561-49DE-AA81-991EA7BA984F</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>75DF54AB-9053-4256-AA03-D0A8F2912E73</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-14-26-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>UniversityManagementSystem project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>UniversityManagementSystem</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run UniversityManagementSystem</string>
-			<key>timeStartedRecording</key>
-			<real>718582466.230474</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run UniversityManagementSystem</string>
-			<key>uniqueIdentifier</key>
-			<string>96A1FD63-0561-49DE-AA81-991EA7BA984F</string>
-		</dict>
-		<key>A09A7723-E1DC-49CC-8983-D7847D187C40</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>D827CEF3-59F5-40D2-840D-FC0BA8118928</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-06-36-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>UniversityManagementSystem project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>UniversityManagementSystem</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run UniversityManagementSystem</string>
-			<key>timeStartedRecording</key>
-			<real>718581996.90371799</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run UniversityManagementSystem</string>
-			<key>uniqueIdentifier</key>
-			<string>A09A7723-E1DC-49CC-8983-D7847D187C40</string>
-		</dict>
-		<key>B0BDEECB-C0BF-4906-8AF8-D34FB5B37A99</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>8136C1E5-FE48-4ACB-9352-7E77A284BE49</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-18-00-+0300.xcresult</string>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-02-51-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -358,18 +178,18 @@
 			<key>signature</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582680.58868206</real>
+			<real>718851771.99882603</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>B0BDEECB-C0BF-4906-8AF8-D34FB5B37A99</string>
+			<string>06E87DCF-2613-4E50-97DE-9CB5E629FC68</string>
 		</dict>
-		<key>CBC2DE8A-729E-4432-897B-308C4BD78833</key>
+		<key>0DCFF619-F455-40CA-87F8-6C2AC407DB76</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>071E0FCF-03A8-4726-93E7-E82ED9D15826</string>
+			<string>02837FA4-CE87-4C86-9F1A-4A645513B43D</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -382,7 +202,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-10-35-+0300.xcresult</string>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-11-24-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -403,18 +223,18 @@
 			<key>signature</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582235.22030902</real>
+			<real>718852284.65554404</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>CBC2DE8A-729E-4432-897B-308C4BD78833</string>
+			<string>0DCFF619-F455-40CA-87F8-6C2AC407DB76</string>
 		</dict>
-		<key>CDB56F08-14B7-4B10-8411-C7EFCACDA427</key>
+		<key>0E029647-EC58-4B27-AC60-2FE2EFD3B33A</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>EB24B189-41D0-44C2-881F-52F3EFC788E6</string>
+			<string>D93E58E7-C351-4DAC-B686-93BD16C393A7</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -427,7 +247,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-14-21-+0300.xcresult</string>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-57-26-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -448,18 +268,18 @@
 			<key>signature</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582461.09972501</real>
+			<real>718851446.86472404</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>CDB56F08-14B7-4B10-8411-C7EFCACDA427</string>
+			<string>0E029647-EC58-4B27-AC60-2FE2EFD3B33A</string>
 		</dict>
-		<key>D32E877B-C41B-414B-B740-D59B7E05FB42</key>
+		<key>0EB193E4-8F76-4175-9BC6-C3FA42473ADE</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>71E3C245-8BFC-4514-AD43-9FA82442142F</string>
+			<string>B4E05770-9865-4A42-8E2E-6F09FE07062B</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -472,7 +292,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-17-17-+0300.xcresult</string>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-44-17-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -493,18 +313,18 @@
 			<key>signature</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582637.39738595</real>
+			<real>718850657.48036206</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>D32E877B-C41B-414B-B740-D59B7E05FB42</string>
+			<string>0EB193E4-8F76-4175-9BC6-C3FA42473ADE</string>
 		</dict>
-		<key>DBA1118F-4BDD-4911-8E86-5C3571EADB18</key>
+		<key>18999A25-5DD7-44B4-ABAA-4FE8F488698F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>8582801D-16E1-4A6C-B6AB-CB8DBF4C29B9</string>
+			<string>5CA72DA7-5DC3-4C28-9512-EF01B814C3E2</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -517,7 +337,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-14-26-+0300.xcresult</string>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-43-39-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -538,18 +358,18 @@
 			<key>signature</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582466.72094595</real>
+			<real>718850619.73124003</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>DBA1118F-4BDD-4911-8E86-5C3571EADB18</string>
+			<string>18999A25-5DD7-44B4-ABAA-4FE8F488698F</string>
 		</dict>
-		<key>F34DBC08-6FA1-4810-8F60-953036FBDA6B</key>
+		<key>1A8957E0-E421-4D14-BD38-F499470466B8</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>E570FCA0-8850-4445-B730-73A9F1CF4C17</string>
+			<string>BD7090A8-288E-4C51-A32B-DAD93C71549D</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -562,7 +382,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-UniversityManagementSystem-2023.10.10_01-05-59-+0300.xcresult</string>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-43-20-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -583,13 +403,2713 @@
 			<key>signature</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718581959.71605206</real>
+			<real>718850600.11059296</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>F34DBC08-6FA1-4810-8F60-953036FBDA6B</string>
+			<string>1A8957E0-E421-4D14-BD38-F499470466B8</string>
+		</dict>
+		<key>1BA7FE50-2A9D-4AFF-8837-D2CCC1B3470D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9631926B-34FD-40CD-82C1-AE3036072462</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-55-30-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847730.73112595</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>1BA7FE50-2A9D-4AFF-8837-D2CCC1B3470D</string>
+		</dict>
+		<key>1C73437B-BF8A-4757-ABC6-8A86C9A9C820</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7123D012-971C-4243-B31D-4758E88363DB</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-03-47-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851827.62079501</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>1C73437B-BF8A-4757-ABC6-8A86C9A9C820</string>
+		</dict>
+		<key>1C96B9C8-6DD1-4D52-9C1B-CE4AC9CF8112</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>38DBB12A-4B3F-41BD-835A-3B9D7ACE9FFA</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-47-17-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847237.81940305</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>1C96B9C8-6DD1-4D52-9C1B-CE4AC9CF8112</string>
+		</dict>
+		<key>1E96B7B4-130E-4B8F-838B-33F05BF92A26</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8404ED01-189A-497C-B836-528D040E66C2</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-53-29-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847609.82990503</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>1E96B7B4-130E-4B8F-838B-33F05BF92A26</string>
+		</dict>
+		<key>20AACC15-CCF1-4D08-A971-EE27B8F0E1C7</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D1CD4047-76F4-4F35-AF62-9788BD3858D3</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-12-09-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848729.24720395</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>20AACC15-CCF1-4D08-A971-EE27B8F0E1C7</string>
+		</dict>
+		<key>21514012-AE63-4F24-950A-32BA8BDB4CCE</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>EF46A802-36FE-4BFC-B112-CD2C29C8F3DF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-51-42-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847502.840505</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>21514012-AE63-4F24-950A-32BA8BDB4CCE</string>
+		</dict>
+		<key>21A78F00-9925-4FAF-AA67-F9A1A22735B7</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>600461BD-A946-4180-8677-C1D2C5567043</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-51-46-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847506.28810501</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>21A78F00-9925-4FAF-AA67-F9A1A22735B7</string>
+		</dict>
+		<key>223073EE-AA6A-4237-AFEA-579EF7EE47B1</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>58D47284-C71B-4F7C-8F61-013DE593D444</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-06-30-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848390.57567298</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>223073EE-AA6A-4237-AFEA-579EF7EE47B1</string>
+		</dict>
+		<key>2877020C-C595-45BE-9189-374D6E64DF82</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>BCA4D918-DBB6-490A-9593-8F1AEA5C5755</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-02-55-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851775.97933698</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>2877020C-C595-45BE-9189-374D6E64DF82</string>
+		</dict>
+		<key>2C94680C-CFC7-4B69-BABA-B891BF21001B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9A9405B1-1096-4C3C-90CF-A398BCF4DAB1</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-58-17-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847897.20852494</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>2C94680C-CFC7-4B69-BABA-B891BF21001B</string>
+		</dict>
+		<key>2F05714D-D84C-4640-B324-4413B51D2EDE</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>48DF8C9C-CEC9-4E4A-AE6F-8A1AE72CD460</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-54-18-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847658.20778203</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>2F05714D-D84C-4640-B324-4413B51D2EDE</string>
+		</dict>
+		<key>352F717F-94DE-45C2-A89B-713C0262F54A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C7C99CC7-8EA3-4663-BFCA-7DA56BDB3BE4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-04-08-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851848.070544</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>352F717F-94DE-45C2-A89B-713C0262F54A</string>
+		</dict>
+		<key>3C543781-80AE-48E9-9885-79981078A182</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F4787BCB-3A64-4E04-B890-F2D040A79C33</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-06-56-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852016.82544303</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>3C543781-80AE-48E9-9885-79981078A182</string>
+		</dict>
+		<key>4678BF51-DF4B-422F-A8FE-E77A3F3B27A2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F5FC8F57-F43A-416E-8BBF-07A039B9C724</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-53-18-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851198.89516699</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>4678BF51-DF4B-422F-A8FE-E77A3F3B27A2</string>
+		</dict>
+		<key>4BB6D9C2-B708-435A-BC25-9FAA1E3B49DC</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7177332C-5144-44A1-A457-63EE8E511936</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-44-35-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850675.06023097</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>4BB6D9C2-B708-435A-BC25-9FAA1E3B49DC</string>
+		</dict>
+		<key>4C9D72D3-60EF-4A6B-A420-24BE6501C453</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E24515F4-F12B-4BA3-ADDF-CA13FC5E2C54</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-00-33-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848033.31710601</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>4C9D72D3-60EF-4A6B-A420-24BE6501C453</string>
+		</dict>
+		<key>5037B079-0A07-4B62-8FA5-D26B22274B6B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>174E424C-6507-4B89-AB4D-A990E53EE4B0</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-03-56-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851836.44627404</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>5037B079-0A07-4B62-8FA5-D26B22274B6B</string>
+		</dict>
+		<key>54AF937C-1A36-42A9-AA8D-61B10E6757B9</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F9909102-B10E-477A-9AB9-B552DC840084</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-53-35-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847615.89175606</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>54AF937C-1A36-42A9-AA8D-61B10E6757B9</string>
+		</dict>
+		<key>582D4EFE-26E1-4D68-9D6B-1BD4889224DC</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>10E86C9B-02FC-4CD6-BBE4-D29296F07FF6</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-01-51-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851711.58020902</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>582D4EFE-26E1-4D68-9D6B-1BD4889224DC</string>
+		</dict>
+		<key>58CA85A0-20CC-4103-8207-968A1A40992E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>63683B9B-E844-408F-A8CA-CEC542578410</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-54-16-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847656.79941702</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>58CA85A0-20CC-4103-8207-968A1A40992E</string>
+		</dict>
+		<key>6734EBFC-E8C9-4F87-A355-B510906E3807</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B156328B-7D41-4B85-A556-A9EE4495B68D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-43-24-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850604.641819</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>6734EBFC-E8C9-4F87-A355-B510906E3807</string>
+		</dict>
+		<key>6A788F04-5CCB-4977-9B38-165C5EF614AF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7122C329-3791-49E5-A45A-C870E271F173</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-12-06-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848726.38903606</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>6A788F04-5CCB-4977-9B38-165C5EF614AF</string>
+		</dict>
+		<key>6BCB8ADD-2FF3-47D4-9B7A-33D2BC0FC11E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D0A8FC0B-4DEC-464A-BE25-51FCB59B435A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-53-33-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847613.06553805</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>6BCB8ADD-2FF3-47D4-9B7A-33D2BC0FC11E</string>
+		</dict>
+		<key>7213B6F6-C16F-4FEB-8248-F81DE85EACE8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>09C203D5-5A6E-4B41-BA7A-A307FA68DF52</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-43-08-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850588.52763295</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>7213B6F6-C16F-4FEB-8248-F81DE85EACE8</string>
+		</dict>
+		<key>76678732-D7BA-4AE2-8A3F-F845A438F642</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B538F489-13BA-4ACD-96C3-596532A6E89C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-00-13-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851613.92300498</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>76678732-D7BA-4AE2-8A3F-F845A438F642</string>
+		</dict>
+		<key>797AB44C-53A5-46FE-AE0E-58BC9456504F</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8260E227-962F-45BD-99D5-096F09029503</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-54-13-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847653.34948802</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>797AB44C-53A5-46FE-AE0E-58BC9456504F</string>
+		</dict>
+		<key>8247DFB5-01FA-45E9-B55C-41A116DD8116</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>0EB223F3-A4B3-4E9B-95E0-7CC1BD447573</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-20-42-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718849242.23765194</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>8247DFB5-01FA-45E9-B55C-41A116DD8116</string>
+		</dict>
+		<key>8652B610-C364-4B46-8B1E-CA67E0210F95</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>14BDA184-AF7A-4387-8F3C-9DE195DBB8FE</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-04-24-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848264.80937195</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>8652B610-C364-4B46-8B1E-CA67E0210F95</string>
+		</dict>
+		<key>8AEF6F9F-CFCA-4815-9AF9-42FD98DCD293</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B0F2AEB8-83F0-439C-A680-3E615F4DE546</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-53-24-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847604.077407</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>8AEF6F9F-CFCA-4815-9AF9-42FD98DCD293</string>
+		</dict>
+		<key>902F7EC2-94BF-45DB-9B51-B4F0BB811A47</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>386EB964-E9C2-4F01-B300-D690815FB9C5</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-41-14-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850474.74919999</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>902F7EC2-94BF-45DB-9B51-B4F0BB811A47</string>
+		</dict>
+		<key>958FFE64-4499-40B2-AA5C-1DC2CDE31F17</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>2DF09C74-4811-4960-BC34-08117F5228DF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-08-10-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852090.08228195</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>958FFE64-4499-40B2-AA5C-1DC2CDE31F17</string>
+		</dict>
+		<key>990675C3-6291-4444-960E-3B6E3C106C44</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B10456B3-4564-4C6B-B599-10901D0ED5FB</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-36-18-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850178.20040298</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>990675C3-6291-4444-960E-3B6E3C106C44</string>
+		</dict>
+		<key>9B04FC9C-BB73-4800-8079-573F1B45C54B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>596A92AD-6DE2-48EC-9087-6716C5C3CD5D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-09-20-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852160.43446195</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>9B04FC9C-BB73-4800-8079-573F1B45C54B</string>
+		</dict>
+		<key>9FEFA799-164D-40D4-9C99-CECAFDE46BA6</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B5D2EB9A-F541-4010-BBB2-73EB52871CB3</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-51-56-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847516.85895097</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>9FEFA799-164D-40D4-9C99-CECAFDE46BA6</string>
+		</dict>
+		<key>A1F160CF-85C4-4936-A62D-73525914445C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>59AD6EEA-6DB4-4B22-9DEA-16D765EE835A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-05-31-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851931.782704</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>A1F160CF-85C4-4936-A62D-73525914445C</string>
+		</dict>
+		<key>A2CFE682-E0F4-48F8-B5B2-6EF48C88FB17</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>77D2842E-A658-4C22-A4D3-A0F8D048539E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-09-53-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848593.116395</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>A2CFE682-E0F4-48F8-B5B2-6EF48C88FB17</string>
+		</dict>
+		<key>A916AC5D-E4E5-4143-B2DE-B7C6B308019A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F65EB126-8980-4977-A41D-7CC28DCB9015</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-49-37-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850977.015782</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>A916AC5D-E4E5-4143-B2DE-B7C6B308019A</string>
+		</dict>
+		<key>AA5ACD11-6EBA-460D-9DB1-C8B431B303C8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>208046A8-14CA-4553-80B9-EED2414F8228</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-13-19-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848799.97301495</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>AA5ACD11-6EBA-460D-9DB1-C8B431B303C8</string>
+		</dict>
+		<key>AB11038D-B25C-4EB4-B76F-3C28BB13F140</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>12496E2E-28A6-448F-ACFF-40460D49AF18</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-59-28-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851568.97692502</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>AB11038D-B25C-4EB4-B76F-3C28BB13F140</string>
+		</dict>
+		<key>AC9837D2-614F-40C1-AB85-41E90CC569BB</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>61A68404-9EBB-4CEC-98F6-E24E6256F154</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-55-04-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851304.16360795</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>AC9837D2-614F-40C1-AB85-41E90CC569BB</string>
+		</dict>
+		<key>AED7D28F-5458-4C10-AD81-459F6719F543</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7FDF4741-0CC6-4DF0-AA80-92D1578DB8B1</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-11-01-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852261.22929204</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>AED7D28F-5458-4C10-AD81-459F6719F543</string>
+		</dict>
+		<key>B010FBA6-35AB-43CF-B25A-35A433469222</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5062CAA4-674B-490D-9A88-76C31B7B803D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-42-02-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850522.65002596</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B010FBA6-35AB-43CF-B25A-35A433469222</string>
+		</dict>
+		<key>B0E6B85D-5FEF-41EB-BAEB-4BB986CA8DD9</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>75E928BB-B050-44D4-BB78-6EBD0E7EC73C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-54-08-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851248.87411404</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B0E6B85D-5FEF-41EB-BAEB-4BB986CA8DD9</string>
+		</dict>
+		<key>B3F5D651-3A89-4569-9BD4-31E76DABB718</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>61D9AAED-EB5A-4038-B726-6DDFE8C0832B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-59-17-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851557.39589798</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B3F5D651-3A89-4569-9BD4-31E76DABB718</string>
+		</dict>
+		<key>B45ABDD7-1585-4E59-A58F-9482912E043E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D05F20DA-F2C7-41E9-B81D-4225A24D9AB5</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-12-23-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852343.28227699</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B45ABDD7-1585-4E59-A58F-9482912E043E</string>
+		</dict>
+		<key>B49A06EB-3078-4DFD-A61B-93829852897D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>DE5648C4-DB7E-4ACC-A85E-31560BEA6393</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-54-16-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847656.10056901</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B49A06EB-3078-4DFD-A61B-93829852897D</string>
+		</dict>
+		<key>B6BC659B-E4AC-4E87-940A-965DD9D48C5B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FD205B08-44A4-4410-8BBC-37676338A643</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-08-22-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852102.45863998</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B6BC659B-E4AC-4E87-940A-965DD9D48C5B</string>
+		</dict>
+		<key>BD69B780-8340-4088-9646-BC34C3C80F2C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>58B5B085-4014-4585-AE9F-0CDE0388BA34</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-57-41-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847861.71577704</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>BD69B780-8340-4088-9646-BC34C3C80F2C</string>
+		</dict>
+		<key>CD3C1BCF-408F-4BF8-A4DA-D71B7742CF64</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8D005A54-D5DB-4E0A-BB80-C6D32CB78BB8</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-02-58-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848178.21401203</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>CD3C1BCF-408F-4BF8-A4DA-D71B7742CF64</string>
+		</dict>
+		<key>CD4FC527-15B8-4AB1-8224-E6A181914A54</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F13424B6-59D5-45AF-A2D1-217EA83BB2AE</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-52-32-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847552.73397803</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>CD4FC527-15B8-4AB1-8224-E6A181914A54</string>
+		</dict>
+		<key>D278038F-7A31-4AB6-82BF-75A2ED2DEBA3</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E5B96DB0-78BA-4CB6-B3E8-FC9F9F73F91D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-11-17-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852277.319839</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>D278038F-7A31-4AB6-82BF-75A2ED2DEBA3</string>
+		</dict>
+		<key>D2BFB0E9-9F09-4C91-AB0B-4C393B9D921A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>57A89826-E9F7-4221-8F88-EC629BF82960</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-58-41-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847921.81166697</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>D2BFB0E9-9F09-4C91-AB0B-4C393B9D921A</string>
+		</dict>
+		<key>D91E922A-280D-42CD-90FB-3E85DACA7193</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>304D43F7-6D33-43CA-BBE9-42E2B7F33F51</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-53-41-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847621.54263699</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>D91E922A-280D-42CD-90FB-3E85DACA7193</string>
+		</dict>
+		<key>DF542146-7022-46DF-87D3-C31A0A864C5E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FB171A81-3463-4CA1-A13E-00C0B0957193</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-19-57-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718849197.22172904</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>DF542146-7022-46DF-87D3-C31A0A864C5E</string>
+		</dict>
+		<key>E2ED8EB7-0988-486B-B136-5D9D718BE322</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>05B2FBC4-1A1A-420E-937C-E0D9205CECB6</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_04-07-35-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852055.57798696</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>E2ED8EB7-0988-486B-B136-5D9D718BE322</string>
+		</dict>
+		<key>EBFED9EA-7082-40B1-82B1-5F2AB08AD14E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>83B2C538-2B37-494D-BF42-91F9CB404ACC</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-50-17-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851017.72699201</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>EBFED9EA-7082-40B1-82B1-5F2AB08AD14E</string>
+		</dict>
+		<key>EE18FEA0-DEBA-46A7-875C-E972D711B236</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4D8DFA73-4606-481C-B46B-AD43AFC39A1B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-36-43-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850203.38730502</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>EE18FEA0-DEBA-46A7-875C-E972D711B236</string>
+		</dict>
+		<key>EEEE7C13-1F93-4E00-A577-4EA094D603AA</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F9A11BE2-860D-4B29-BEAA-8AF6DFCFE928</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_02-51-41-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847501.11441195</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>EEEE7C13-1F93-4E00-A577-4EA094D603AA</string>
+		</dict>
+		<key>F24548FC-C5C9-4B54-9A4D-FECE6447EEA2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>3ECAF85D-376D-43F3-915A-399872E79909</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-50-26-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851026.71104598</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>F24548FC-C5C9-4B54-9A4D-FECE6447EEA2</string>
+		</dict>
+		<key>F9CD1D11-FB21-457A-A220-965B87C2D8A7</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>376B529B-390E-4BEC-BFF8-23DA4CC03193</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UniversityManagementSystem-2023.10.13_03-57-28-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851448.91907704</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>F9CD1D11-FB21-457A-A220-965B87C2D8A7</string>
 		</dict>
 	</dict>
 </dict>

@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>071E0FCF-03A8-4726-93E7-E82ED9D15826</key>
+		<key>02837FA4-CE87-4C86-9F1A-4A645513B43D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>071E0FCF-03A8-4726-93E7-E82ED9D15826.xcactivitylog</string>
+			<string>02837FA4-CE87-4C86-9F1A-4A645513B43D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582235.22045398</real>
+			<real>718852284.65568995</real>
 			<key>timeStoppedRecording</key>
-			<real>718582238.59107196</real>
+			<real>718852287.04972696</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>071E0FCF-03A8-4726-93E7-E82ED9D15826</string>
+			<string>02837FA4-CE87-4C86-9F1A-4A645513B43D</string>
 		</dict>
-		<key>19472720-F142-4AD3-96D5-E90C04D6C9F8</key>
+		<key>05B2FBC4-1A1A-420E-937C-E0D9205CECB6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,211 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>19472720-F142-4AD3-96D5-E90C04D6C9F8.xcactivitylog</string>
+			<string>05B2FBC4-1A1A-420E-937C-E0D9205CECB6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852055.57813704</real>
+			<key>timeStoppedRecording</key>
+			<real>718852057.70531702</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>05B2FBC4-1A1A-420E-937C-E0D9205CECB6</string>
+		</dict>
+		<key>09C203D5-5A6E-4B41-BA7A-A307FA68DF52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09C203D5-5A6E-4B41-BA7A-A307FA68DF52.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850588.52774501</real>
+			<key>timeStoppedRecording</key>
+			<real>718850590.37970805</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>09C203D5-5A6E-4B41-BA7A-A307FA68DF52</string>
+		</dict>
+		<key>0EB223F3-A4B3-4E9B-95E0-7CC1BD447573</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0EB223F3-A4B3-4E9B-95E0-7CC1BD447573.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718849242.23776805</real>
+			<key>timeStoppedRecording</key>
+			<real>718849242.30357802</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>0EB223F3-A4B3-4E9B-95E0-7CC1BD447573</string>
+		</dict>
+		<key>10E86C9B-02FC-4CD6-BBE4-D29296F07FF6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>10E86C9B-02FC-4CD6-BBE4-D29296F07FF6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851711.58035803</real>
+			<key>timeStoppedRecording</key>
+			<real>718851715.44972706</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>10E86C9B-02FC-4CD6-BBE4-D29296F07FF6</string>
+		</dict>
+		<key>12496E2E-28A6-448F-ACFF-40460D49AF18</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>12496E2E-28A6-448F-ACFF-40460D49AF18.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851568.97702706</real>
+			<key>timeStoppedRecording</key>
+			<real>718851570.82325101</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>12496E2E-28A6-448F-ACFF-40460D49AF18</string>
+		</dict>
+		<key>14BDA184-AF7A-4387-8F3C-9DE195DBB8FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14BDA184-AF7A-4387-8F3C-9DE195DBB8FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848264.80948806</real>
+			<key>timeStoppedRecording</key>
+			<real>718848264.87635803</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>14BDA184-AF7A-4387-8F3C-9DE195DBB8FE</string>
+		</dict>
+		<key>174E424C-6507-4B89-AB4D-A990E53EE4B0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>174E424C-6507-4B89-AB4D-A990E53EE4B0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +270,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718581932.86481595</real>
+			<real>718851836.44644403</real>
 			<key>timeStoppedRecording</key>
-			<real>718581934.68551099</real>
+			<real>718851838.69220495</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>19472720-F142-4AD3-96D5-E90C04D6C9F8</string>
+			<string>174E424C-6507-4B89-AB4D-A990E53EE4B0</string>
 		</dict>
-		<key>4AC62EDA-1BCE-4EC9-8156-9909341694D8</key>
+		<key>1A132B67-22E8-4824-81D3-42B983F41B96</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,7 +287,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4AC62EDA-1BCE-4EC9-8156-9909341694D8.xcactivitylog</string>
+			<string>1A132B67-22E8-4824-81D3-42B983F41B96.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851771.99893105</real>
+			<key>timeStoppedRecording</key>
+			<real>718851772.153597</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>1A132B67-22E8-4824-81D3-42B983F41B96</string>
+		</dict>
+		<key>208046A8-14CA-4553-80B9-EED2414F8228</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>208046A8-14CA-4553-80B9-EED2414F8228.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +338,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582022.17920494</real>
+			<real>718848799.973176</real>
 			<key>timeStoppedRecording</key>
-			<real>718582022.381984</real>
+			<real>718848802.37066495</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>4AC62EDA-1BCE-4EC9-8156-9909341694D8</string>
+			<string>208046A8-14CA-4553-80B9-EED2414F8228</string>
 		</dict>
-		<key>71E3C245-8BFC-4514-AD43-9FA82442142F</key>
+		<key>2DF09C74-4811-4960-BC34-08117F5228DF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>71E3C245-8BFC-4514-AD43-9FA82442142F.xcactivitylog</string>
+			<string>2DF09C74-4811-4960-BC34-08117F5228DF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +372,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582637.39750004</real>
+			<real>718852090.08244205</real>
 			<key>timeStoppedRecording</key>
-			<real>718582637.47904801</real>
+			<real>718852092.46408606</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>71E3C245-8BFC-4514-AD43-9FA82442142F</string>
+			<string>2DF09C74-4811-4960-BC34-08117F5228DF</string>
 		</dict>
-		<key>75DF54AB-9053-4256-AA03-D0A8F2912E73</key>
+		<key>304D43F7-6D33-43CA-BBE9-42E2B7F33F51</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -151,7 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>75DF54AB-9053-4256-AA03-D0A8F2912E73.xcactivitylog</string>
+			<string>304D43F7-6D33-43CA-BBE9-42E2B7F33F51.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +406,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582466.23060298</real>
+			<real>718847621.54276896</real>
 			<key>timeStoppedRecording</key>
-			<real>718582466.71732998</real>
+			<real>718847621.70592403</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>75DF54AB-9053-4256-AA03-D0A8F2912E73</string>
+			<string>304D43F7-6D33-43CA-BBE9-42E2B7F33F51</string>
 		</dict>
-		<key>8136C1E5-FE48-4ACB-9352-7E77A284BE49</key>
+		<key>376B529B-390E-4BEC-BFF8-23DA4CC03193</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -185,7 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8136C1E5-FE48-4ACB-9352-7E77A284BE49.xcactivitylog</string>
+			<string>376B529B-390E-4BEC-BFF8-23DA4CC03193.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +440,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582680.58879304</real>
+			<real>718851448.91920996</real>
 			<key>timeStoppedRecording</key>
-			<real>718582680.65780997</real>
+			<real>718851448.98930502</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>8136C1E5-FE48-4ACB-9352-7E77A284BE49</string>
+			<string>376B529B-390E-4BEC-BFF8-23DA4CC03193</string>
 		</dict>
-		<key>8582801D-16E1-4A6C-B6AB-CB8DBF4C29B9</key>
+		<key>386EB964-E9C2-4F01-B300-D690815FB9C5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -219,7 +457,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8582801D-16E1-4A6C-B6AB-CB8DBF4C29B9.xcactivitylog</string>
+			<string>386EB964-E9C2-4F01-B300-D690815FB9C5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850474.74932098</real>
+			<key>timeStoppedRecording</key>
+			<real>718850474.92113602</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>386EB964-E9C2-4F01-B300-D690815FB9C5</string>
+		</dict>
+		<key>38DBB12A-4B3F-41BD-835A-3B9D7ACE9FFA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>38DBB12A-4B3F-41BD-835A-3B9D7ACE9FFA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +508,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582466.72106695</real>
+			<real>718847237.81952202</real>
 			<key>timeStoppedRecording</key>
-			<real>718582468.60214496</real>
+			<real>718847239.73195195</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>8582801D-16E1-4A6C-B6AB-CB8DBF4C29B9</string>
+			<string>38DBB12A-4B3F-41BD-835A-3B9D7ACE9FFA</string>
 		</dict>
-		<key>BF1B14C0-58E2-4672-B139-3AE3A8BBF4A5</key>
+		<key>3ECAF85D-376D-43F3-915A-399872E79909</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -253,7 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BF1B14C0-58E2-4672-B139-3AE3A8BBF4A5.xcactivitylog</string>
+			<string>3ECAF85D-376D-43F3-915A-399872E79909.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +542,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582464.77058899</real>
+			<real>718851026.71116495</real>
 			<key>timeStoppedRecording</key>
-			<real>718582466.22677696</real>
+			<real>718851026.77418602</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>BF1B14C0-58E2-4672-B139-3AE3A8BBF4A5</string>
+			<string>3ECAF85D-376D-43F3-915A-399872E79909</string>
 		</dict>
-		<key>D827CEF3-59F5-40D2-840D-FC0BA8118928</key>
+		<key>48DF8C9C-CEC9-4E4A-AE6F-8A1AE72CD460</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -287,7 +559,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D827CEF3-59F5-40D2-840D-FC0BA8118928.xcactivitylog</string>
+			<string>48DF8C9C-CEC9-4E4A-AE6F-8A1AE72CD460.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +576,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718581996.903988</real>
+			<real>718847658.20793295</real>
 			<key>timeStoppedRecording</key>
-			<real>718581996.99917996</real>
+			<real>718847659.46556699</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>D827CEF3-59F5-40D2-840D-FC0BA8118928</string>
+			<string>48DF8C9C-CEC9-4E4A-AE6F-8A1AE72CD460</string>
 		</dict>
-		<key>DCF9F8BC-B9CE-4F9E-AB60-7B7D6AB7BCA0</key>
+		<key>4D8DFA73-4606-481C-B46B-AD43AFC39A1B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -321,7 +593,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DCF9F8BC-B9CE-4F9E-AB60-7B7D6AB7BCA0.xcactivitylog</string>
+			<string>4D8DFA73-4606-481C-B46B-AD43AFC39A1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850203.38747001</real>
+			<key>timeStoppedRecording</key>
+			<real>718850205.25664699</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>4D8DFA73-4606-481C-B46B-AD43AFC39A1B</string>
+		</dict>
+		<key>5062CAA4-674B-490D-9A88-76C31B7B803D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5062CAA4-674B-490D-9A88-76C31B7B803D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +644,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582463.53931296</real>
+			<real>718850522.65012705</real>
 			<key>timeStoppedRecording</key>
-			<real>718582464.76499104</real>
+			<real>718850524.64757502</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>DCF9F8BC-B9CE-4F9E-AB60-7B7D6AB7BCA0</string>
+			<string>5062CAA4-674B-490D-9A88-76C31B7B803D</string>
 		</dict>
-		<key>E570FCA0-8850-4445-B730-73A9F1CF4C17</key>
+		<key>57A89826-E9F7-4221-8F88-EC629BF82960</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -355,7 +661,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E570FCA0-8850-4445-B730-73A9F1CF4C17.xcactivitylog</string>
+			<string>57A89826-E9F7-4221-8F88-EC629BF82960.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,15 +678,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718581959.71628296</real>
+			<real>718847921.81178606</real>
 			<key>timeStoppedRecording</key>
-			<real>718581961.56705999</real>
+			<real>718847921.87314701</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>E570FCA0-8850-4445-B730-73A9F1CF4C17</string>
+			<string>57A89826-E9F7-4221-8F88-EC629BF82960</string>
 		</dict>
-		<key>EAF832A6-3939-4599-A29B-3CC583BEA7A1</key>
+		<key>58B5B085-4014-4585-AE9F-0CDE0388BA34</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -389,7 +695,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EAF832A6-3939-4599-A29B-3CC583BEA7A1.xcactivitylog</string>
+			<string>58B5B085-4014-4585-AE9F-0CDE0388BA34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847861.71588898</real>
+			<key>timeStoppedRecording</key>
+			<real>718847863.60162306</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>58B5B085-4014-4585-AE9F-0CDE0388BA34</string>
+		</dict>
+		<key>58D47284-C71B-4F7C-8F61-013DE593D444</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>58D47284-C71B-4F7C-8F61-013DE593D444.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -406,15 +746,15 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582463.02617502</real>
+			<real>718848390.57578695</real>
 			<key>timeStoppedRecording</key>
-			<real>718582463.53521097</real>
+			<real>718848392.55517697</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>EAF832A6-3939-4599-A29B-3CC583BEA7A1</string>
+			<string>58D47284-C71B-4F7C-8F61-013DE593D444</string>
 		</dict>
-		<key>EB24B189-41D0-44C2-881F-52F3EFC788E6</key>
+		<key>596A92AD-6DE2-48EC-9087-6716C5C3CD5D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -423,7 +763,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EB24B189-41D0-44C2-881F-52F3EFC788E6.xcactivitylog</string>
+			<string>596A92AD-6DE2-48EC-9087-6716C5C3CD5D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -440,13 +780,1577 @@
 			<key>signature</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>timeStartedRecording</key>
-			<real>718582461.09990704</real>
+			<real>718852160.434582</real>
 			<key>timeStoppedRecording</key>
-			<real>718582463.01380301</real>
+			<real>718852164.15765703</real>
 			<key>title</key>
 			<string>Build UniversityManagementSystem</string>
 			<key>uniqueIdentifier</key>
-			<string>EB24B189-41D0-44C2-881F-52F3EFC788E6</string>
+			<string>596A92AD-6DE2-48EC-9087-6716C5C3CD5D</string>
+		</dict>
+		<key>59AD6EEA-6DB4-4B22-9DEA-16D765EE835A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59AD6EEA-6DB4-4B22-9DEA-16D765EE835A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851931.78280795</real>
+			<key>timeStoppedRecording</key>
+			<real>718851933.86395299</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>59AD6EEA-6DB4-4B22-9DEA-16D765EE835A</string>
+		</dict>
+		<key>5CA72DA7-5DC3-4C28-9512-EF01B814C3E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5CA72DA7-5DC3-4C28-9512-EF01B814C3E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850619.731354</real>
+			<key>timeStoppedRecording</key>
+			<real>718850619.79566097</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>5CA72DA7-5DC3-4C28-9512-EF01B814C3E2</string>
+		</dict>
+		<key>600461BD-A946-4180-8677-C1D2C5567043</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>600461BD-A946-4180-8677-C1D2C5567043.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847506.28822899</real>
+			<key>timeStoppedRecording</key>
+			<real>718847506.46618998</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>600461BD-A946-4180-8677-C1D2C5567043</string>
+		</dict>
+		<key>61A68404-9EBB-4CEC-98F6-E24E6256F154</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61A68404-9EBB-4CEC-98F6-E24E6256F154.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851304.16378796</real>
+			<key>timeStoppedRecording</key>
+			<real>718851304.23016596</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>61A68404-9EBB-4CEC-98F6-E24E6256F154</string>
+		</dict>
+		<key>61D9AAED-EB5A-4038-B726-6DDFE8C0832B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61D9AAED-EB5A-4038-B726-6DDFE8C0832B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851557.39605296</real>
+			<key>timeStoppedRecording</key>
+			<real>718851559.34294295</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>61D9AAED-EB5A-4038-B726-6DDFE8C0832B</string>
+		</dict>
+		<key>63683B9B-E844-408F-A8CA-CEC542578410</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>63683B9B-E844-408F-A8CA-CEC542578410.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847656.79955804</real>
+			<key>timeStoppedRecording</key>
+			<real>718847658.20186996</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>63683B9B-E844-408F-A8CA-CEC542578410</string>
+		</dict>
+		<key>64DA38B1-6F56-424B-8C17-DCCEFEF15BED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>64DA38B1-6F56-424B-8C17-DCCEFEF15BED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852170.15740705</real>
+			<key>timeStoppedRecording</key>
+			<real>718852170.222175</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>64DA38B1-6F56-424B-8C17-DCCEFEF15BED</string>
+		</dict>
+		<key>7122C329-3791-49E5-A45A-C870E271F173</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7122C329-3791-49E5-A45A-C870E271F173.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848726.38918304</real>
+			<key>timeStoppedRecording</key>
+			<real>718848728.59664094</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>7122C329-3791-49E5-A45A-C870E271F173</string>
+		</dict>
+		<key>7123D012-971C-4243-B31D-4758E88363DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7123D012-971C-4243-B31D-4758E88363DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851827.62095404</real>
+			<key>timeStoppedRecording</key>
+			<real>718851831.23387098</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>7123D012-971C-4243-B31D-4758E88363DB</string>
+		</dict>
+		<key>7177332C-5144-44A1-A457-63EE8E511936</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7177332C-5144-44A1-A457-63EE8E511936.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850675.06034303</real>
+			<key>timeStoppedRecording</key>
+			<real>718850675.12156999</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>7177332C-5144-44A1-A457-63EE8E511936</string>
+		</dict>
+		<key>75E928BB-B050-44D4-BB78-6EBD0E7EC73C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75E928BB-B050-44D4-BB78-6EBD0E7EC73C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851248.87426996</real>
+			<key>timeStoppedRecording</key>
+			<real>718851251.12688196</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>75E928BB-B050-44D4-BB78-6EBD0E7EC73C</string>
+		</dict>
+		<key>77627B03-2941-4C4B-88EB-0CEBCD314E10</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77627B03-2941-4C4B-88EB-0CEBCD314E10.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851092.40447795</real>
+			<key>timeStoppedRecording</key>
+			<real>718851094.509233</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>77627B03-2941-4C4B-88EB-0CEBCD314E10</string>
+		</dict>
+		<key>77D2842E-A658-4C22-A4D3-A0F8D048539E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77D2842E-A658-4C22-A4D3-A0F8D048539E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848593.11650598</real>
+			<key>timeStoppedRecording</key>
+			<real>718848593.28489804</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>77D2842E-A658-4C22-A4D3-A0F8D048539E</string>
+		</dict>
+		<key>7FDF4741-0CC6-4DF0-AA80-92D1578DB8B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FDF4741-0CC6-4DF0-AA80-92D1578DB8B1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852261.22940505</real>
+			<key>timeStoppedRecording</key>
+			<real>718852263.40785396</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>7FDF4741-0CC6-4DF0-AA80-92D1578DB8B1</string>
+		</dict>
+		<key>8260E227-962F-45BD-99D5-096F09029503</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8260E227-962F-45BD-99D5-096F09029503.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847653.34959102</real>
+			<key>timeStoppedRecording</key>
+			<real>718847656.09521401</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>8260E227-962F-45BD-99D5-096F09029503</string>
+		</dict>
+		<key>83B2C538-2B37-494D-BF42-91F9CB404ACC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>83B2C538-2B37-494D-BF42-91F9CB404ACC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851017.72711205</real>
+			<key>timeStoppedRecording</key>
+			<real>718851017.88847101</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>83B2C538-2B37-494D-BF42-91F9CB404ACC</string>
+		</dict>
+		<key>8404ED01-189A-497C-B836-528D040E66C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8404ED01-189A-497C-B836-528D040E66C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847609.83001196</real>
+			<key>timeStoppedRecording</key>
+			<real>718847609.98503006</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>8404ED01-189A-497C-B836-528D040E66C2</string>
+		</dict>
+		<key>8D005A54-D5DB-4E0A-BB80-C6D32CB78BB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D005A54-D5DB-4E0A-BB80-C6D32CB78BB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848178.21412396</real>
+			<key>timeStoppedRecording</key>
+			<real>718848178.37976599</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>8D005A54-D5DB-4E0A-BB80-C6D32CB78BB8</string>
+		</dict>
+		<key>9631926B-34FD-40CD-82C1-AE3036072462</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9631926B-34FD-40CD-82C1-AE3036072462.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847730.73123205</real>
+			<key>timeStoppedRecording</key>
+			<real>718847730.90534794</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>9631926B-34FD-40CD-82C1-AE3036072462</string>
+		</dict>
+		<key>9A9405B1-1096-4C3C-90CF-A398BCF4DAB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A9405B1-1096-4C3C-90CF-A398BCF4DAB1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847897.20866799</real>
+			<key>timeStoppedRecording</key>
+			<real>718847899.19741201</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>9A9405B1-1096-4C3C-90CF-A398BCF4DAB1</string>
+		</dict>
+		<key>B0F2AEB8-83F0-439C-A680-3E615F4DE546</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B0F2AEB8-83F0-439C-A680-3E615F4DE546.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847604.07773197</real>
+			<key>timeStoppedRecording</key>
+			<real>718847606.08756196</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B0F2AEB8-83F0-439C-A680-3E615F4DE546</string>
+		</dict>
+		<key>B10456B3-4564-4C6B-B599-10901D0ED5FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B10456B3-4564-4C6B-B599-10901D0ED5FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850178.20056701</real>
+			<key>timeStoppedRecording</key>
+			<real>718850180.93435502</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B10456B3-4564-4C6B-B599-10901D0ED5FB</string>
+		</dict>
+		<key>B156328B-7D41-4B85-A556-A9EE4495B68D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B156328B-7D41-4B85-A556-A9EE4495B68D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850604.64193499</real>
+			<key>timeStoppedRecording</key>
+			<real>718850604.71435595</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B156328B-7D41-4B85-A556-A9EE4495B68D</string>
+		</dict>
+		<key>B4E05770-9865-4A42-8E2E-6F09FE07062B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B4E05770-9865-4A42-8E2E-6F09FE07062B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850657.48048699</real>
+			<key>timeStoppedRecording</key>
+			<real>718850660.11070204</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B4E05770-9865-4A42-8E2E-6F09FE07062B</string>
+		</dict>
+		<key>B538F489-13BA-4ACD-96C3-596532A6E89C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B538F489-13BA-4ACD-96C3-596532A6E89C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851613.92317295</real>
+			<key>timeStoppedRecording</key>
+			<real>718851616.12932706</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B538F489-13BA-4ACD-96C3-596532A6E89C</string>
+		</dict>
+		<key>B5D2EB9A-F541-4010-BBB2-73EB52871CB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5D2EB9A-F541-4010-BBB2-73EB52871CB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847516.85905898</real>
+			<key>timeStoppedRecording</key>
+			<real>718847516.91979206</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>B5D2EB9A-F541-4010-BBB2-73EB52871CB3</string>
+		</dict>
+		<key>BCA4D918-DBB6-490A-9593-8F1AEA5C5755</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BCA4D918-DBB6-490A-9593-8F1AEA5C5755.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851775.97944295</real>
+			<key>timeStoppedRecording</key>
+			<real>718851776.149405</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>BCA4D918-DBB6-490A-9593-8F1AEA5C5755</string>
+		</dict>
+		<key>BD7090A8-288E-4C51-A32B-DAD93C71549D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD7090A8-288E-4C51-A32B-DAD93C71549D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850600.11070597</real>
+			<key>timeStoppedRecording</key>
+			<real>718850600.17787802</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>BD7090A8-288E-4C51-A32B-DAD93C71549D</string>
+		</dict>
+		<key>C7C99CC7-8EA3-4663-BFCA-7DA56BDB3BE4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C7C99CC7-8EA3-4663-BFCA-7DA56BDB3BE4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851848.07071996</real>
+			<key>timeStoppedRecording</key>
+			<real>718851850.76023901</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>C7C99CC7-8EA3-4663-BFCA-7DA56BDB3BE4</string>
+		</dict>
+		<key>D05F20DA-F2C7-41E9-B81D-4225A24D9AB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D05F20DA-F2C7-41E9-B81D-4225A24D9AB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852343.28239095</real>
+			<key>timeStoppedRecording</key>
+			<real>718852343.44320703</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>D05F20DA-F2C7-41E9-B81D-4225A24D9AB5</string>
+		</dict>
+		<key>D0A8FC0B-4DEC-464A-BE25-51FCB59B435A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D0A8FC0B-4DEC-464A-BE25-51FCB59B435A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847613.06564403</real>
+			<key>timeStoppedRecording</key>
+			<real>718847613.13092601</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>D0A8FC0B-4DEC-464A-BE25-51FCB59B435A</string>
+		</dict>
+		<key>D1CD4047-76F4-4F35-AF62-9788BD3858D3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1CD4047-76F4-4F35-AF62-9788BD3858D3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848729.24731803</real>
+			<key>timeStoppedRecording</key>
+			<real>718848729.31802797</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>D1CD4047-76F4-4F35-AF62-9788BD3858D3</string>
+		</dict>
+		<key>D93E58E7-C351-4DAC-B686-93BD16C393A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D93E58E7-C351-4DAC-B686-93BD16C393A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851446.864856</real>
+			<key>timeStoppedRecording</key>
+			<real>718851448.91361797</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>D93E58E7-C351-4DAC-B686-93BD16C393A7</string>
+		</dict>
+		<key>DE5648C4-DB7E-4ACC-A85E-31560BEA6393</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE5648C4-DB7E-4ACC-A85E-31560BEA6393.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847656.10070503</real>
+			<key>timeStoppedRecording</key>
+			<real>718847656.78672302</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>DE5648C4-DB7E-4ACC-A85E-31560BEA6393</string>
+		</dict>
+		<key>E24515F4-F12B-4BA3-ADDF-CA13FC5E2C54</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E24515F4-F12B-4BA3-ADDF-CA13FC5E2C54.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718848033.31724596</real>
+			<key>timeStoppedRecording</key>
+			<real>718848035.45226097</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>E24515F4-F12B-4BA3-ADDF-CA13FC5E2C54</string>
+		</dict>
+		<key>E5B96DB0-78BA-4CB6-B3E8-FC9F9F73F91D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E5B96DB0-78BA-4CB6-B3E8-FC9F9F73F91D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852277.31995595</real>
+			<key>timeStoppedRecording</key>
+			<real>718852279.61452603</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>E5B96DB0-78BA-4CB6-B3E8-FC9F9F73F91D</string>
+		</dict>
+		<key>EF46A802-36FE-4BFC-B112-CD2C29C8F3DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF46A802-36FE-4BFC-B112-CD2C29C8F3DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847502.84070003</real>
+			<key>timeStoppedRecording</key>
+			<real>718847505.15957606</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>EF46A802-36FE-4BFC-B112-CD2C29C8F3DF</string>
+		</dict>
+		<key>F13424B6-59D5-45AF-A2D1-217EA83BB2AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F13424B6-59D5-45AF-A2D1-217EA83BB2AE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847552.73408794</real>
+			<key>timeStoppedRecording</key>
+			<real>718847552.80039799</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>F13424B6-59D5-45AF-A2D1-217EA83BB2AE</string>
+		</dict>
+		<key>F34DDE65-EC71-4B85-80D4-EA5FCD33A4E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F34DDE65-EC71-4B85-80D4-EA5FCD33A4E9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847659.47224498</real>
+			<key>timeStoppedRecording</key>
+			<real>718847662.13904798</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>F34DDE65-EC71-4B85-80D4-EA5FCD33A4E9</string>
+		</dict>
+		<key>F4787BCB-3A64-4E04-B890-F2D040A79C33</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4787BCB-3A64-4E04-B890-F2D040A79C33.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852016.82558298</real>
+			<key>timeStoppedRecording</key>
+			<real>718852019.05115604</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>F4787BCB-3A64-4E04-B890-F2D040A79C33</string>
+		</dict>
+		<key>F5FC8F57-F43A-416E-8BBF-07A039B9C724</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5FC8F57-F43A-416E-8BBF-07A039B9C724.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718851198.89528704</real>
+			<key>timeStoppedRecording</key>
+			<real>718851201.12243903</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>F5FC8F57-F43A-416E-8BBF-07A039B9C724</string>
+		</dict>
+		<key>F65EB126-8980-4977-A41D-7CC28DCB9015</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F65EB126-8980-4977-A41D-7CC28DCB9015.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718850977.01612103</real>
+			<key>timeStoppedRecording</key>
+			<real>718850979.33053195</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>F65EB126-8980-4977-A41D-7CC28DCB9015</string>
+		</dict>
+		<key>F9909102-B10E-477A-9AB9-B552DC840084</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9909102-B10E-477A-9AB9-B552DC840084.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847615.89187801</real>
+			<key>timeStoppedRecording</key>
+			<real>718847616.05623901</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>F9909102-B10E-477A-9AB9-B552DC840084</string>
+		</dict>
+		<key>F9A11BE2-860D-4B29-BEAA-8AF6DFCFE928</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9A11BE2-860D-4B29-BEAA-8AF6DFCFE928.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718847501.11742795</real>
+			<key>timeStoppedRecording</key>
+			<real>718847502.82849705</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>F9A11BE2-860D-4B29-BEAA-8AF6DFCFE928</string>
+		</dict>
+		<key>FB171A81-3463-4CA1-A13E-00C0B0957193</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB171A81-3463-4CA1-A13E-00C0B0957193.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718849197.22183299</real>
+			<key>timeStoppedRecording</key>
+			<real>718849197.34391296</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>FB171A81-3463-4CA1-A13E-00C0B0957193</string>
+		</dict>
+		<key>FD205B08-44A4-4410-8BBC-37676338A643</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD205B08-44A4-4410-8BBC-37676338A643.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UniversityManagementSystem project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UniversityManagementSystem</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>timeStartedRecording</key>
+			<real>718852102.45877099</real>
+			<key>timeStoppedRecording</key>
+			<real>718852104.80836201</real>
+			<key>title</key>
+			<string>Build UniversityManagementSystem</string>
+			<key>uniqueIdentifier</key>
+			<string>FD205B08-44A4-4410-8BBC-37676338A643</string>
 		</dict>
 	</dict>
 </dict>
