@@ -69,9 +69,15 @@ int main(){
                 cout << s1;
                 cin >> choose;
                 break;
-            case 6:
+            case 6:{
+                ofstream f("STUDENT.txt");
+                ofstream f1("TEACHER.txt");
+                ofstream f2("ADMIN.txt");
+                f.close();
+                f1.close();
+                f2.close();
                 break;
-                break;
+                break;}
             default:
                 break;
         }

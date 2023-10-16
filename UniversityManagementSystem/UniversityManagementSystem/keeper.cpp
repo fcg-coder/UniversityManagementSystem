@@ -38,20 +38,15 @@ void Keeper::add(int n){
             
             
             
-            
             STUDENT S(1);
             
             studArr[sizeS] = S;
-            
-            
-            
             sizeS++;
             cout << "\n\n\n";
             studArr[sizeS].showOne();
             cout << "\n\n\n";
-            this->saveInFile(1);
-            this->showAll(1);
-            
+            this->saveInFile(3);
+            this->showAll(3);
             break;
         }
         case 2:{
@@ -79,7 +74,7 @@ void Keeper::add(int n){
             adArr[sizeA] = A;
             sizeA++;
             cout << "\n\n\n";
-            adArr[sizeT].showOne();
+            adArr[sizeA].showOne();
             cout << "\n\n\n";
             this->saveInFile(3);
             this->showAll(3);
@@ -92,54 +87,41 @@ void Keeper::add(int n){
 }
 
 //Удалить
+template <typename T>
+void Keeper::pull(int size,T* arr, int n){
+    int n1;
+    cout << "Введите номер:\n->";
+    cin >> n1;
+    for (int i = n1; i < size ; i++){
+        arr[i] = arr[i+1];
+    }
+    size--;
+    this->saveInFile(n);
+    this->showAll(n);
+};
+
 void Keeper::pullBack(int n){
     switch (n) {
         case 1:{
-            int n1;
-            cout << "Введите номер:\n->";
-            cin >> n1;
-            for (int i = n1; i < sizeS ; i++){
-                studArr[i] = studArr[i+1];
-            }
             sizeS--;
-            this->saveInFile(1);
-            this->showAll(1);
+            this->pull(sizeS+1,studArr, 1);
             break;
-            
         }
         case 2:{
-            int n1;
-            cout << "Введите номер:\n->";
-            cin >> n1;
-            for (int i = n1; i < sizeT ; i++){
-                teachArr[i] = teachArr[i+1];
-            }
             sizeT--;
-            this->saveInFile(2);
-            this->showAll(2);
-            break;
+            this->pull(sizeT+1, teachArr,2);
             
+             break;
         }
         case 3:{
-            int n1;
-            cout << "Введите номер:\n->";
-            cin >> n1;
-            for (int i = n1; i < sizeA ; i++){
-                adArr[i] = adArr[i+1];
-            }
             sizeA--;
-            this->saveInFile(3);
-            this->showAll(3);
+            this->pull(sizeA+1, adArr, 3);
             break;
-            
         }
-        default:
-            break;
     }
     
 }
 
-// ▪ полное сохранение себя в файле; ▪ полное восстановление себя из файла
 //полное сохранение себя в файле
 void Keeper::saveInFile(int n){
     switch (n) {
@@ -177,8 +159,7 @@ void Keeper::saveInFile(int n){
    
 }
 
-
-//полное восстановление себя из файла.
+//восстановление себя из файла.
 void Keeper::loadFromFile(int n){
     
     
@@ -258,185 +239,144 @@ void Keeper::loadFromFile(int n){
     //this->showAll();
 }
 
+
+void fromFileToFile(string inputFile, string outputFile){
+    std :: string line;
+    fstream file(inputFile);
+    ofstream file1(outputFile);
+    while (getline(file, line)) { // Читаем строки из входного файла
+                file1 << line << std::endl;    // Записываем строки в выходной файл
+                cout << line << endl;
+            }
+    file.close();
+    file1.close();
+}
+
+
 //полное восстановление себя из файла.
 void Keeper::loadFromResFile(int n){
-    
+    string inputFile = "";
+    string outputFile = "";
     
     switch (n) {
         case 1:{
-            //Вспомогательные переменные
+            string inputFile = "STUDENT_res.txt";
+            string outputFile = "STUDENT.txt";
             
-            std :: string name1;
-            std :: string surname1;
-            std :: string fathername1;
-            int group1;
-            int course1;
-            double averagScore1;
-            std :: string speciality1;
-            ifstream file("STUDENT_res.txt");
-            for (int i = 0; i < sizeS; i ++){
-                file >> name1 >> surname1 >> fathername1 >> group1 >> speciality1 >> course1 >> averagScore1;
-                STUDENT S(name1,surname1,fathername1,group1,speciality1,course1,averagScore1);
-                studArr[i] = S;
-            }
+            fromFileToFile(inputFile,outputFile);
             
-            file.close();
-            
+            this->size(n);
             break;
-            
         }
             
         case 2:{
-            //Вспомогательные переменные
             
-            std :: string name1;
-            std :: string surname1;
-            std :: string fathername1;
-            std :: string group1;
-            std :: string predmet1;
-            ifstream file("TEACHER_res.txt");
-            for (int i = 0; i < sizeT; i ++){
-                file >> name1 >> surname1 >> fathername1 >> group1 >> predmet1;
-                TEACHER T(name1,surname1,fathername1,group1,predmet1);
-                teachArr[i] = T;
-            }
+                string inputFile = "TEACHER_res.txt";
+                string outputFile = "TEACHER.txt";
             
-            file.close();
+            fromFileToFile(inputFile,outputFile);
             
-            
+            this->size(n);
             break;
-            
+        
         }
             
         case 3:{
-            //Вспомогательные переменные
+            string inputFile = "ADMIN_res.txt";
+            string outputFile = "ADMIN.txt";
             
-            std :: string name1;
-            std :: string surname1;
-            std :: string fathername1;
-            std :: string dolgnost1;
-            std :: string oblast1;
-            std :: string  number1;
-            ifstream file("ADMIN_res.txt");
-            for (int i = 0; i < sizeA; i ++){
-                file >> name1 >> surname1 >> fathername1 >> dolgnost1 >> number1 >> oblast1;
-                ADMIN A(name1,surname1,fathername1,dolgnost1,number1,oblast1);
-                adArr[i] = A;
-            }
+            fromFileToFile(inputFile,outputFile);
             
-            file.close();
-            
-            
+            this->size(n);
             break;
             
         }
-            
-        
-        default:
-            break;
     }
     
-    //this->showAll();
+    
 }
 
+template <typename T>
+void Keeper::show(int size, T* arr, int n){
+    std :: string ss =  "\n\n\n\n#\tФАМИЛИЯ\t\t\tИМЯ\t\t\t\tОТЧЕСТВО\t\t\tГРУППА\t\t\tСПЕЦИАЛЬНОСТЬ\t\t\tКУРС\t\t\tСРЕДНИЙ БАЛЛ\n_____________________________________________________________________________________________________________________\n";
+    std :: string st =  "\n\n\n\n#\tФАМИЛИЯ\t\t\tИМЯ\t\t\t\tОТЧЕСТВО\t\t\tГРУППЫ\t\t\tПРЕДМЕТ\n_____________________________________________________________________________________________________________________\n";
 
-void Keeper::showAll(int n){
+    std :: string sa =   "\n\n\n\n#\tФАМИЛИЯ\t\t\tИМЯ\t\t\t\tОТЧЕСТВО\t\t\tДОЛЖНОСТЬ\t\t\tНОМЕР\t\tОБЛАСТЬ ОТВЕТСТВЕННОСТИ\n_____________________________________________________________________________________________________________________\n";
     switch (n) {
         case 1:
-            this->loadFromFile(1);
-            cout << "\n\n\n\n#\tФАМИЛИЯ\t\t\tИМЯ\t\t\t\tОТЧЕСТВО\t\t\tГРУППА\t\t\tСПЕЦИАЛЬНОСТЬ\t\t\tКУРС\t\t\tСРЕДНИЙ БАЛЛ\n_____________________________________________________________________________________________________________________\n";
-           
-            for (int i = 0; i< sizeS; i++){
-                cout<< i << "\t";
-                studArr[i].showOne();
-            }
- 
+            cout << ss;
             break;
         case 2:
-            
-            this->loadFromFile(2);
-            cout << "\n\n\n\n#\tФАМИЛИЯ\t\t\tИМЯ\t\t\t\tОТЧЕСТВО\t\t\tГРУППЫ\t\t\tПРЕДМЕТ\n_____________________________________________________________________________________________________________________\n";
-            
-            for (int i = 0; i< sizeT; i++){
-                cout<< i << "\t";
-                teachArr[i].showOne();
-            }
+            cout << st;
             break;
         case 3:
-            
-                
-                this->loadFromFile(3);
-                cout << "\n\n\n\n#\tФАМИЛИЯ\t\t\tИМЯ\t\t\t\tОТЧЕСТВО\t\t\tДОЛЖНОСТЬ\t\t\tНОМЕР\t\tОБЛАСТЬ ОТВЕТСТВЕННОСТИ\n_____________________________________________________________________________________________________________________\n";
-                
-                for (int i = 0; i< sizeA; i++){
-                    cout<< i << "\t";
-                    adArr[i].showOne();
-                }
-            
+            cout << sa;
+            break;
+    }
+    for (int i = 0; i< size; i++){
+        cout<< i << "\t";
+        arr[i].showOne();
+    }
+}
+
+void Keeper::showAll(int n){
+    this->loadFromFile(n);
+    switch (n) {
+        case 1:
+            this->show(sizeS, studArr, 1);
+            break;
+        case 2:
+            this->show(sizeT, teachArr, 2 );
+            break;
+        case 3:
+            this -> show(sizeA, adArr, 3);
             break;
         default:
             break;
     }
 }
 
+
+int GetFileSize(const std::string& filename) {
+    std::ifstream file(filename);  // Открываем файл для чтения
+    std::string line;
+    int size = 0;
+
+    if (file.is_open()) {  // Проверяем, удалось ли открыть файл
+        while (std::getline(file, line)) {
+            size++;  // Увеличиваем счетчик для каждой строки
+        }
+        file.close();  // Закрываем файл
+    } else {
+        std::cout << "Не удалось открыть файл\n";
+    }
+
+    return size;
+}
 
 int Keeper::size(int n){
     
     switch (n) {
-        case 1:{
-            ifstream file("STUDENT.txt");  // Открываем файл для чтения
-            std::string line;
-            int sizeS = 0;
-            
-            if (file.is_open()) {  // Проверяем, удалось ли открыть файл
-                while (std::getline(file, line)) {
-                    sizeS++;  // Увеличиваем счетчик для каждой строки
-                }
-                file.close();  // Закрываем файл
-            } else {
-                cout << "Не удалось открыть файл\n";
+            case 1: {
+                return GetFileSize("STUDENT.txt");
             }
-            //cout << "Количество студентов\t" << sizeS << endl;
-            return sizeS;
-            break;
-            
-        }
-        case 2:{
-            ifstream file("TEACHER.txt");  // Открываем файл для чтения
-            std::string line;
-            int sizeT = 0;
-            
-            if (file.is_open()) {  // Проверяем, удалось ли открыть файл
-                while (std::getline(file, line)) {
-                    sizeT++;  // Увеличиваем счетчик для каждой строки
-                }
-                file.close();  // Закрываем файл
-            } else {
-                cout << "Не удалось открыть файл\n";
+            case 2: {
+   
+                return GetFileSize("TEACHER.txt");
             }
-            //cout << "Количество студентов\t" << sizeS << endl;
-            return sizeT;
-            break;
-            
-        }
-        case 3:{
-            ifstream file("ADMIN.txt");  // Открываем файл для чтения
-            std::string line;
-            int sizeA = 0;
-            
-            if (file.is_open()) {  // Проверяем, удалось ли открыть файл
-                while (std::getline(file, line)) {
-                    sizeA++;  // Увеличиваем счетчик для каждой строки
-                }
-                file.close();  // Закрываем файл
-            } else {
-                cout << "Не удалось открыть файл\n";
+            case 3: {
+                return GetFileSize("ADMIN.txt");
             }
-            //cout << "Количество студентов\t" << sizeS << endl;
-            return sizeA;
-            break;
-            
+            case 4: {
+                return GetFileSize("STUDENT_res.txt");
+            }
+            case 5: {
+                return GetFileSize("TEACHER_res.txt");
+            }
+            case 6: {
+                return GetFileSize("ADMIN_res.txt");
+            }
+            default:
+                return 0;
         }
- }
-        return 0;
 }

@@ -21,9 +21,24 @@ private:
     int sizeS = this->size(1);
     int sizeT = this->size(2);
     int sizeA = this->size(3);
+    int sizeSR = this->size(4);
+    int sizeTR = this->size(5);
+    int sizeAR = this->size(6);
     STUDENT* studArr = new STUDENT[100000]; //Создали массив
     TEACHER* teachArr = new TEACHER[100000]; //Создали массив
     ADMIN* adArr = new ADMIN[100000]; //Создали массив
+    
+    
+    
+    int size(int n);
+    void loadFromFile(int n);
+    
+    template <typename T>
+    void pull(int size,T* arr, int n);
+    
+    template <typename T>
+    void show(int size, T* arr, int n);
+    
 public:
     Keeper();
     Keeper(int s);
@@ -32,11 +47,12 @@ public:
     void add(int n);
     void pullBack(int n);
     void saveInFile(int n);
-    void loadFromFile(int n);
     void loadFromResFile(int n);
     void showAll(int n);
-    int size(int n);
+    
+    
 };
+
 
 
 #endif /* keeper_hpp */

@@ -68,5 +68,147 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE9A4DEE-3AEB-40FD-AF48-B2262A74A7CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UniversityManagementSystem/keeper.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "Keeper::pull(size, arr, n)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE9A4DEE-3AEB-40FD-AF48-B2262A74A7CA - cf513ee8261a8181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "void Keeper::pull&lt;STUDENT&gt;(int, STUDENT*, int)"
+                  moduleName = "UniversityManagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/GitHub/UniversityManagementSystem/UniversityManagementSystem/UniversityManagementSystem/keeper.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "FE9A4DEE-3AEB-40FD-AF48-B2262A74A7CA - 737080afdbbd1bd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "void Keeper::pull&lt;TEACHER&gt;(int, TEACHER*, int)"
+                  moduleName = "UniversityManagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/GitHub/UniversityManagementSystem/UniversityManagementSystem/UniversityManagementSystem/keeper.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "FE9A4DEE-3AEB-40FD-AF48-B2262A74A7CA - db377acb3997e001"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "void Keeper::pull&lt;ADMIN&gt;(int, ADMIN*, int)"
+                  moduleName = "UniversityManagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/GitHub/UniversityManagementSystem/UniversityManagementSystem/UniversityManagementSystem/keeper.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "146">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E93939DE-B7DB-48FA-8174-EE33B36B7FB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UniversityManagementSystem/keeper.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "Keeper::pull(size, arr, n)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E93939DE-B7DB-48FA-8174-EE33B36B7FB6 - cf513ee8261a8181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "void Keeper::pull&lt;STUDENT&gt;(int, STUDENT*, int)"
+                  moduleName = "UniversityManagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/GitHub/UniversityManagementSystem/UniversityManagementSystem/UniversityManagementSystem/keeper.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "E93939DE-B7DB-48FA-8174-EE33B36B7FB6 - 737080afdbbd1bd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "void Keeper::pull&lt;TEACHER&gt;(int, TEACHER*, int)"
+                  moduleName = "UniversityManagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/GitHub/UniversityManagementSystem/UniversityManagementSystem/UniversityManagementSystem/keeper.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "E93939DE-B7DB-48FA-8174-EE33B36B7FB6 - db377acb3997e001"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "void Keeper::pull&lt;ADMIN&gt;(int, ADMIN*, int)"
+                  moduleName = "UniversityManagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/GitHub/UniversityManagementSystem/UniversityManagementSystem/UniversityManagementSystem/keeper.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "146">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E58FA49E-CD37-46A1-BB9C-1B8F41DD4012"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UniversityManagementSystem/keeper.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "Keeper::saveInFile(n)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
