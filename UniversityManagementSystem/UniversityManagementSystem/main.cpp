@@ -21,7 +21,7 @@ using namespace std;
 int main(){
 
 
-    std :: string s1 = "\n\n\n\n(1)Вывод базы данных\n(2)Добавить\n(3)Удалить\n(4)Востановиться из файла\n(6)Назад\n->";
+    std :: string s1 = "\n\n\n\n(1)Вывод базы данных\n(2)Добавить\n(3)Удалить\n(4)Востановиться из файла\n(5)Edit\n(6)Назад\n->";
     std :: string s2 = "(1)Студент\n(2)Преподаватель\n(3)Администрация\n->";
     
     Keeper K;
@@ -65,6 +65,15 @@ int main(){
                 cout << s2 ;
                 cin >> choose1;
                 K.loadFromResFile(choose1);
+                
+                cout << s1;
+                cin >> choose;
+                break;
+                
+            case 5:
+                cout << s2 ;
+                cin >> choose1;
+                K.editOne(choose1);
                 
                 cout << s1;
                 cin >> choose;

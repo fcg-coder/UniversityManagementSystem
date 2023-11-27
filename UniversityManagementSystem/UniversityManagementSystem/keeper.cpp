@@ -12,6 +12,7 @@
 #include "Child2.hpp"
 #include "Child3.hpp"
 #include <iostream>
+#include <exception>
 using namespace std;
 
 
@@ -99,6 +100,68 @@ void Keeper::pull(int size,T* arr, int n){
     this->saveInFile(n);
     this->showAll(n);
 };
+
+
+
+
+void Keeper::editOne(int n){
+    switch (n) {
+        case 1:{
+            this->Edit(sizeS+1,studArr, 1);
+            break;
+        }
+        case 2:{
+            this->Edit(sizeT+1, teachArr,2);
+            
+             break;
+        }
+        case 3:{
+            this->Edit(sizeA+1, adArr, 3);
+            break;
+        }
+    }
+    
+}
+
+
+
+template <typename T>
+void Keeper::Edit(int size,T* arr, int n){
+    int n1;
+    cout << "Введите номер:\n->";
+    cin >> n1;
+    
+   
+    switch (n) {
+        case 1:{
+            
+            STUDENT S(1);
+            studArr[n1] = S;
+            break;
+        }
+        case 2:{
+            
+            TEACHER TTT(1);
+            
+            teachArr[n1] = TTT;
+            break;
+        }
+        case 3:{
+            
+            ADMIN A(1);
+            
+            adArr[n1] = A;
+            break;
+        }
+        default:
+            break;
+    }
+    
+    this->saveInFile(n);
+    this->showAll(n);
+   
+}
+
 
 void Keeper::pullBack(int n){
     switch (n) {
@@ -296,6 +359,7 @@ void Keeper::loadFromResFile(int n){
     
 }
 
+
 template <typename T>
 void Keeper::show(int size, T* arr, int n){
     std :: string ss =  "\n\n\n\n#\tФАМИЛИЯ\t\t\tИМЯ\t\t\t\tОТЧЕСТВО\t\t\tГРУППА\t\t\tСПЕЦИАЛЬНОСТЬ\t\t\tКУРС\t\t\tСРЕДНИЙ БАЛЛ\n_____________________________________________________________________________________________________________________\n";
@@ -318,6 +382,7 @@ void Keeper::show(int size, T* arr, int n){
         arr[i].showOne();
     }
 }
+
 
 void Keeper::showAll(int n){
     this->loadFromFile(n);
@@ -348,7 +413,9 @@ int GetFileSize(const std::string& filename) {
         }
         file.close();  // Закрываем файл
     } else {
+        std :: exception (error);
         std::cout << "Не удалось открыть файл\n";
+        throw error;
     }
 
     return size;

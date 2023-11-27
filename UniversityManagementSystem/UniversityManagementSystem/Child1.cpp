@@ -52,6 +52,7 @@ STUDENT::STUDENT(std:: string name1,std:: string surname1, std:: string fatherna
     averagScore = averagScore1;
     
 }
+
 void STUDENT::showOne (){
     cout << name <<"\t\t\t" << surname <<"\t\t\t" << fathername <<"\t\t\t" << group <<"\t\t\t" <<speciality <<"\t\t\t" <<course <<"\t\t\t" << averagScore << "\n";
 }

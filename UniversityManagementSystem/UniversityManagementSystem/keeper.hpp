@@ -39,6 +39,10 @@ private:
     template <typename T>
     void show(int size, T* arr, int n);
     
+    
+    template <typename T>
+    void Edit(int size,T* arr, int n);
+    
 public:
     Keeper();
     Keeper(int s);
@@ -46,6 +50,7 @@ public:
 
     void add(int n);
     void pullBack(int n);
+    void editOne(int n);
     void saveInFile(int n);
     void loadFromResFile(int n);
     void showAll(int n);

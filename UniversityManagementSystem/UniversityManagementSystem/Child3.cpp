@@ -37,6 +37,8 @@ ADMIN:: ADMIN(std:: string name1,std:: string surname1, std:: string fathername1
     number = number1;
     
 }
+
+
 void ADMIN::showOne (){
     cout << name <<"\t\t\t" << surname <<"\t\t\t" << fathername <<"\t\t\t" << dolgnost <<"\t\t\t" <<number << "\t\t\t" <<oblast << "\n";
 }
