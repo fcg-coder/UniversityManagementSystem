@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "38932d884101308594a17c2c5961c004b012ca0037b9aee294cb07c5959a1f57"
+    }
+  ],
+  "containerPath" : "/Users/mak/Документы/UMS2/UMS2.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mak/Документы/UMS2/DerivedData/UMS2/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mak/Документы/UMS2/DerivedData/UMS2/Build/Products",
+      "derivedDataPath" : "/Users/mak/Документы/UMS2/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mak/Документы/UMS2/DerivedData/UMS2/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mak/Документы/UMS2/DerivedData/UMS2/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/mak/Документы/UMS2/DerivedData/UMS2/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
